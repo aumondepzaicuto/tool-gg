@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         DOM Vision Assistant - CYBER UI
+// @name        ÂU ĐẸP TRAI SỐ 1 THÉ GIỚI
 // @namespace    local.dom-vision-assistant
-// @version      2.0.1
-// @description  DOM Vision Assistant - Cyber Hacker UI
+// @version      v2.0.2
+// @description  ÂU ĐẸP TRAI
 // @match        https://docs.google.com/forms/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_addStyle
