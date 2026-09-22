@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        ÂU ĐẸP TRAI SỐ 1 THÉ GIỚI
 // @namespace    local.dom-vision-assistant
-// @version      v2.0.2
+// @version      v2.0.3
 // @description  ÂU ĐẸP TRAI
 // @match        https://docs.google.com/forms/*
 // @grant        GM_xmlhttpRequest
